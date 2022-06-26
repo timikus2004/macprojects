@@ -1,0 +1,2 @@
+# macprojects
+projects on Mac
